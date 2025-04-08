@@ -22,9 +22,7 @@ Tiling Window Management for Windows.
   <a href="https://notado.app/feeds/jado/software-development">
     <img alt="Notado Feed" src="https://img.shields.io/badge/Notado-Subscribe-informational">
   </a>
-  <a href="https://www.youtube.com/channel/UCeai3-do-9O4MNy9_xjO6mg?sub_confirmation=1">
-    <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCeai3-do-9O4MNy9_xjO6mg">
-  </a>
+
 </p>
 
 ![screenshot](https://user-images.githubusercontent.com/13164844/184027064-f5a6cec2-2865-4d65-a549-a1f1da589abf.png)
@@ -468,18 +466,4 @@ which can be used with services such as [Quicktype](https://app.quicktype.io/) t
 programming languages.
 
 # Appreciations
-
-- First and foremost, thank you to my wife, both for naming this project and for her patience throughout its
-  never-ending development
-
-- Thank you to [@sitiom](https://github.com/sitiom) for
-  being [an exemplary open source community leader](https://jeezy.substack.com/p/the-open-source-contributions-i-appreciate)
-
-- Thank you to the developers of [nog](https://github.com/TimUntersberger/nog) who came before me and whose work taught
-  me more than I can ever hope to repay
-
-- Thank you to the developers of [GlazeWM](https://github.com/lars-berger/GlazeWM) for pushing the boundaries of tiling
-  window management on Windows with me and having an excellent spirit of collaboration
-
-- Thank you to [@Ciantic](https://github.com/Ciantic) for helping me bring
-  the [hidden Virtual Desktops cloaking function](https://github.com/Ciantic/AltTabAccessor/issues/1) to `komorebi`
+to the respective creator of komerebi twm
