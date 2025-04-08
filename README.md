@@ -24,6 +24,61 @@ Tiling Window Management for Windows.
   </a>
 </p>
 
+# Enhanced Content with Videos
+
+This document provides additional information and includes embedded videos for a richer experience.
+
+## Jesus Culture - I Need You (More Than Anything)
+
+Jesus Culture, featuring Chris McClarney, delivers a powerful worship song titled "I Need You (More Than Anything)." This track emphasizes the deep longing for a closer relationship with the divine.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fpbZ5kqT8pE" frameborder="0" allowfullscreen></iframe>
+
+## Mario - I Need More
+
+Mario's "I Need More" showcases his evolution as an artist, blending R&B with contemporary sounds. The song reflects themes of desire and the quest for fulfillment.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JwPKVr2hups" frameborder="0" allowfullscreen></iframe>
+
+## Jesus Culture - My Soul Longs For You
+
+Another inspiring song by Jesus Culture, "My Soul Longs For You," expresses a deep yearning for spiritual connection and renewal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6GgNw2neYrU" frameborder="0" allowfullscreen></iframe>
+
+## Mario - Let Me Love You
+
+One of Mario's classic hits, "Let Me Love You," is a heartfelt plea about appreciating and caring for a significant other.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H64QG4UsrGI" frameborder="0" allowfullscreen></iframe>
+
+## Jesus Culture - More Than Enough
+
+Featuring Kim Walker-Smith, "More Than Enough" is a live performance that conveys the sufficiency of divine presence in one's life.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_uLYfpgwP4" frameborder="0" allowfullscreen></iframe>
+
+## Mario - Crying Out For Me
+
+In "Crying Out For Me," Mario narrates the story of a woman in a troubled relationship, offering his support and understanding.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kn3AH2yn5Yc" frameborder="0" allowfullscreen></iframe>
+
+## Jesus Culture - Revival
+
+"Revival" by Jesus Culture, featuring Chris McClarney, is a call for spiritual awakening and renewal within the community.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExbvQemUZK0" frameborder="0" allowfullscreen></iframe>
+
+## Mario - Glad You Came
+
+Mario's recent release, "Glad You Came," showcases his smooth vocals and emotive delivery, marking his continued presence in the music industry.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0K7YtyLCGeU" frameborder="0" allowfullscreen></iframe>
+
+*Note: The embedded videos above are sourced from YouTube and are subject to availability.*
+
+
 <!-- trimmed content for brevity -->
 ## Overview
 
