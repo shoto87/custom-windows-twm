@@ -39,3 +39,6 @@ Let’s be honest — FancyZones is great if your idea of "customization" is dra
 - **Rating**: 10/10 Would Ctrl+Win+H again.
 
 Komorebi is like an anime protagonist’s training arc. It starts quiet and unassuming, then hits you with high-octane efficiency and a sleek layout that makes you feel like you’re hacking the Matrix — even if you’re just moving Notepad.
+
+
+🔍 **See the original documentation and get started here:** [https://github.com/LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
